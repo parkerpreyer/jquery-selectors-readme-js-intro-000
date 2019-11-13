@@ -16,5 +16,5 @@ function lastImageSelector() {
 }
 
 function firstListItem() {
-  $('#pic-list');
+  $('#pic-list').first();
 }
