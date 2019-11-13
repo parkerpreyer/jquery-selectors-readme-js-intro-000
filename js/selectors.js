@@ -6,3 +6,7 @@ function paragraphSelector() {
 function ninjaBabySelector() {
   return $('img').first();
 }
+
+function divSelector() {
+  return $('.pics');
+}
