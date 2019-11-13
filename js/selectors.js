@@ -14,3 +14,7 @@ function divSelector() {
 function lastImageSelector() {
   return $('img').last();
 }
+
+function firstListItem() {
+  $('ul li #pic-list');
+}
